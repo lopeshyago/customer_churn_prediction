@@ -98,17 +98,17 @@ The best model achieved an F1-score of 0.77. By identifying high-risk customers,
 You can also run the analysis and modeling directly in Jupyter Notebook or with Python scripts:
 
 1. Install dependencies:
-
+ ```bash
   pip install -r requirements.txt
-
+```
 2. Open the notebook:
-
+```bash
   jupyter notebook churn_notebook.ipynb
-
+```
   or run the scripts:
-
+```bash
   python 01_data_analysis.py
   python 02_preprocessing_and_modeling.py
-
+```
 3. Follow the outputs and visualizations in the notebook or terminal.
 
