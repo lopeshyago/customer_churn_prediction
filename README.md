@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+![Dashboard Example](example.png)
+
 ## Business Context
 A telecommunications company faces high customer churn, which is costly. Retaining customers is five times cheaper than acquiring new ones. This project builds a machine learning model to identify customers at high risk of churning, enabling targeted retention campaigns.
 
