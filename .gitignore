@@ -1,0 +1,20 @@
+# Ignore Python virtual environments
+customer/
+venv/
+.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore common Python cache and log files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit config
+.streamlit/
