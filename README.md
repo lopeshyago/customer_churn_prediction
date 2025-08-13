@@ -92,3 +92,23 @@ The best model achieved an F1-score of 0.77. By identifying high-risk customers,
   ```
 3. Access the dashboard in your browser at the provided local URL.
 
+
+## How to Run Without Streamlit
+
+You can also run the analysis and modeling directly in Jupyter Notebook or with Python scripts:
+
+1. Install dependencies:
+
+  pip install -r requirements.txt
+
+2. Open the notebook:
+
+  jupyter notebook churn_notebook.ipynb
+
+  or run the scripts:
+
+  python 01_data_analysis.py
+  python 02_preprocessing_and_modeling.py
+
+3. Follow the outputs and visualizations in the notebook or terminal.
+
